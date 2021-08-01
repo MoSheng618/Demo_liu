@@ -1,7 +1,7 @@
 {
     "name": "lxj/demo_liu",
     "description": "This is the test package written by My. Liu",
-    "license": "Apache",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Lxj\\DemoLiu\\": "src/"
