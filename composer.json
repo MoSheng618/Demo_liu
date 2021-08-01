@@ -1,6 +1,7 @@
 {
     "name": "lxj/demo_liu",
     "description": "This is the test package written by My. Liu",
+    "type":"library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -15,7 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-	"php" : "^7.0",
-	"another-vendor/package":"1.*"
+	"php" : "^7.0"
     }
 }
